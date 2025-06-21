@@ -13,7 +13,7 @@ const AddNewButton = () => {
       email: "kojoa.doe@example.com",
 
       amount: 20000, // Amount in kobo (20000 kobo = 200 GHS)
-      reference: crypto.randomUUID(), // Unique reference for the transaction
+      reference: "PLN_htugl5q5b3ke787", // Unique reference for the transaction
       plan: "PLN_htugl5q5b3ne7h7",
       invoice_limit: 2,
       subaccount: "EYRAM HENRY GEBU",
